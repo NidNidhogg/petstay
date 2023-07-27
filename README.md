@@ -1,5 +1,5 @@
-# Demo project 
-Soon to be updated
+# Sign up via Google account 
+
 
 # Subtutorial
 
