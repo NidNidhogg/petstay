@@ -1,0 +1,14 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/dmitriybelenkiy/petstay-v.0.1/app/layout.tsx": [
+      "/Users/dmitriybelenkiy/petstay-v.0.1/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}",
+      "/Users/dmitriybelenkiy/petstay-v.0.1/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/dmitriybelenkiy/petstay-v.0.1/app/page": [
+      "/Users/dmitriybelenkiy/petstay-v.0.1/app/globals.css",
+      "/Users/dmitriybelenkiy/petstay-v.0.1/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Nunito\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"font\"}"
+    ]
+  }
+}
